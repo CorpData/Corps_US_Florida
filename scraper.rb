@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # encoding: ASCII-8BIT
 require 'open-uri'
 require 'csv'
